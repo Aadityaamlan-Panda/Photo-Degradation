@@ -98,22 +98,22 @@ Analyze reaction order via R-squared evaluation in three different experimental 
 Initial rapid MB degradation at high H₂O₂ concentration.  
 Sample images show color change over time.
 
-```markdown
+
 ![MB Solution, Run 1](images/mb_10_1.png)
 ![MB Solution, Run 2](images/mb_29_1.png)
 ![MB Solution, Control](images/mb_0_h2o2.png)
-```
+
 
 ***
 
 ## 📊 **Calculation & Plots**
 
 *29 MB solution:1 H2O2 solution*
-```markdown
+
 ![Kinetics Plot: Scenario 1](images/fig1.png)
 ![Kinetics Plot: Scenario 2](images/fig4.png)
 ![Kinetics Plot: Scenario 3](images/fig7.png)
-```
+
 
 - Zeroth Order: Ct/C0 vs time
 - First Order: ln(Ct/C0) vs time
